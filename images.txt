@@ -1,1 +1,1 @@
-rossning92/finance
+nginx:stable-alpine
